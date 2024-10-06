@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macsk\\Documents\\infoHF2024_1\\gyakorlat\\zhgyak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F053E71-6AF8-4CCB-830D-EC066DFEB265}|zhgyak\\zhgyak.csproj|c:\\users\\macsk\\documents\\infohf2024_1\\gyakorlat\\zhgyak\\zhgyak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F053E71-6AF8-4CCB-830D-EC066DFEB265}|zhgyak\\zhgyak.csproj|solutionrelative:zhgyak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F053E71-6AF8-4CCB-830D-EC066DFEB265}|zhgyak\\zhgyak.csproj|c:\\users\\macsk\\documents\\infohf2024_1\\gyakorlat\\zhgyak\\zhgyak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F053E71-6AF8-4CCB-830D-EC066DFEB265}|zhgyak\\zhgyak.csproj|solutionrelative:zhgyak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\macsk\\Documents\\infoHF2024_1\\gyakorlat\\zhgyak\\zhgyak\\Form1.cs",
+              "RelativeDocumentMoniker": "zhgyak\\Form1.cs",
+              "ToolTip": "C:\\Users\\macsk\\Documents\\infoHF2024_1\\gyakorlat\\zhgyak\\zhgyak\\Form1.cs",
+              "RelativeToolTip": "zhgyak\\Form1.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAIAwwF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:34:30.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\macsk\\Documents\\infoHF2024_1\\gyakorlat\\zhgyak\\zhgyak\\Form1.cs",
+              "RelativeDocumentMoniker": "zhgyak\\Form1.cs",
+              "ToolTip": "C:\\Users\\macsk\\Documents\\infoHF2024_1\\gyakorlat\\zhgyak\\zhgyak\\Form1.cs [Design]",
+              "RelativeToolTip": "zhgyak\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:27:46.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XHR Example</title>
+</head>
+<body>
+    <h1>Fetch Posts</h1>
+    <button id="fetchPosts">Fetch Posts</button>
+    <div id="output"></div>
+
+    <script>
+        document.getElementById('fetchPosts').addEventListener('click', function() {
+            // Create a new XMLHttpRequest object
+            var xhr = new XMLHttpRequest();
+
+            // Configure it: GET-request for the URL
+            xhr.open('GET', 'https://rory.cat/purr', true);
+
+            // Set up a function to handle the response
+            xhr.onload = function() {
+                if (xhr.status >= 200 && xhr.status < 300) {
+                    // Parse the JSON response
+                    var data = JSON.parse(xhr.responseText);
+                    // Display the data
+                    document.getElementById('output').innerHTML = JSON.stringify(data, null, 2);
+                } else {
+                    console.error('Request failed with status:', xhr.status);
+                }
+                data.forEach(item => {
+                        // Create an image element
+                        var img = document.createElement('img');
+                        img.src = item.url; // Assuming 'url' contains the image link
+                        img.alt = item.title; // Add an alt attribute
+                        img.style.width = '1000px'; // Set a width for the images
+                        img.style.margin = '1000px'; // Add some margin
+                var title = document.createElement('p');
+                title.textContent = item.title;
+                outputDiv.appendChild(img);
+                outputDiv.appendChild(title);
+            };
+
+            // Handle network errors
+            xhr.onerror = function() {
+                console.error('Request failed');
+            };
+
+            // Send the request
+            xhr.send();
+        });
+    </script>
+</body>
+</html>

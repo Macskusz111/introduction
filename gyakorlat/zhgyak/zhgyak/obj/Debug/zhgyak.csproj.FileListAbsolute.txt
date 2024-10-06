@@ -1,0 +1,10 @@
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\obj\Debug\zhgyak.csproj.AssemblyReference.cache
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\obj\Debug\zhgyak.Form1.resources
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\obj\Debug\zhgyak.Properties.Resources.resources
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\obj\Debug\zhgyak.csproj.GenerateResource.cache
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\obj\Debug\zhgyak.csproj.CoreCompileInputs.cache
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\bin\Debug\zhgyak.exe.config
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\bin\Debug\zhgyak.exe
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\bin\Debug\zhgyak.pdb
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\obj\Debug\zhgyak.exe
+C:\Users\macsk\Documents\infoHF2024_1\gyakorlat\zhgyak\zhgyak\obj\Debug\zhgyak.pdb
