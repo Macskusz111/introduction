@@ -18,7 +18,18 @@ margin: 150px;
     color: white;
     text-align: center;
 }
-
+section.fakeheader{
+    background-color: blanchedalmond;
+    
+    
+margin: 150px;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
 section {
     padding: 20px;
     margin: 20px;
