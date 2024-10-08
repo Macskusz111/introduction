@@ -18,13 +18,23 @@
             <img src="unnamed2.jpg" alt="profile_picture" style="width:100%;">
             
             <div class="centered"><strong>Macskusz111<br>Lego builder<br>artist<br></strong>
-                <a href="#div_id1">About me<br></a>
-                <a href="#div_id2">My work<br></a>
-                <a href="#div_id3">My life</a></div>
+                
                 
           </div> 
         
         
+    </section>
+    <section>
+        <h2>My page:</h2>
+        <ul>
+            <li><a href="#div_id1">about me<br></a>
+                <a href="#div_id2">my work<br></a>
+                <a href="#div_id3">my life<br></a>
+                <a href="#div_id4">more cat information</a></div>
+        </li>
+            
+        
+        </ul>
     </section>
 
     <section id="About_me" class="red">
@@ -37,9 +47,9 @@
 
             <li><strong>A starphoto of me:</strong> drinking milk <br>
             <img src="milk.png" alt="milk" width="257" height="128"></li>
-            <li><strong>And of chorse the most inportantly</strong> I like cats
-            <p>to find out more click on the link:
-                <a href="cat.html">more cat information</a>
+            <li><strong>And of course the most inportantly</strong> I like cats
+            <p>to find out more, scroll down: <a href="#div_id4">scroll down</a>or click on the link:
+                <a href="cat.html">cat.link</a>
             </p>
         </li>
             
@@ -95,10 +105,31 @@
            
         </blockquote>
     </section>
+    <section>
+       
+            <style>
+                img {
+                    width: 300px; 
+                    margin: 10px; 
+                }
+            </style>
+        
+        
+            <h1>Random Cat Images</h1>
+            <div id="div_id4"></div>
+            <p>if you click on it you get a random picture of a cat</p>
+            <button id="fetchCat">Random Cat</button>
+            <div id="output"></div>
+        
+            <!-- Link to the external JavaScript file -->
+            <script src="script.js"></script>
+        
+        </html>
+    </section>
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>this section does not work yet</p>
+        <p><strong> section does not work yet</strong></p>
         <form action="your-form-handler.php" method="post">
             <label for="name">Name:</label><br>
             <input type="text" id="name" name="name" required><br>
