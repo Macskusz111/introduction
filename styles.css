@@ -65,7 +65,14 @@ h2 {
     margin: 0;
     text-align: left;
 }
-
+section.cat{
+    
+                img {
+                    width: 300px; 
+                    margin: 10px; 
+                }
+            
+}
 footer {
     text-align: center;
     padding: 10px;
